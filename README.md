@@ -25,5 +25,4 @@ Dataset:
 
 ### Visualisation Result
 - fire_locations_map.html
-<br>
 ![fire_locations_map_image](fire_locations_map_image.png)
